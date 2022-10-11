@@ -15,8 +15,8 @@ nav{
 nav:hover {
   opacity: 1;
   transition: all .1s ease-out;
-}
-nav p {
+}.
+nav > ul > li:first-child {
   font-weight: bold;
 }
 nav a {
