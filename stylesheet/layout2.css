@@ -1,0 +1,78 @@
+body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: 'PT Sans', sans-serif;
+}
+a { color: inherit;
+}
+.one {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 25px;
+  margin-top: 40px;
+  margin-bottom: 15px;
+}
+.two {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.three {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.four {
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.five {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.six {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.seven {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.eight {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.nine {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.ten {
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.eleven {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.twelve {
+  font-size: 25px;
+  margin-left: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
